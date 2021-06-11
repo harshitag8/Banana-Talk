@@ -1,2 +1,2 @@
 # banana-talk
- Translation app is vanillaJS
+ Translation app in vanillaJS
