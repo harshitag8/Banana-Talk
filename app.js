@@ -18,7 +18,7 @@ function clickHandler() {
     console.log("Clicked!!");
     console.log("input", txtInput.value);
 
-    outputDiv.innerText = "Translation >>" + txtInput.value;
+    outputDiv.innerText = txtInput.value;
 };
 
 btnTranslate.addEventListener("click", clickHandler)
